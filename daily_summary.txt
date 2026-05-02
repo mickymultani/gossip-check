@@ -1,33 +1,36 @@
 --- Solana Gossip Node Scan Summary ---
-Date: 2026-05-01 03:28:46
+Date: 2026-05-02 02:45:09
 Total Nodes Sampled: 150
 ---------------------------------------
-Sanctioned Nodes (OFAC): 0
-Non-Compliance Percentage: 0.00%
+Sanctioned Nodes (OFAC): 1
+Non-Compliance Percentage: 0.67%
 ---------------------------------------
 Top Countries:
-  🇺🇸 US (USA): 50
-  🇩🇪 DE (Germany): 31
-  🇷🇺 RU (Russia): 0
+  🇺🇸 US (USA): 46
+  🇩🇪 DE (Germany): 24
+  🇷🇺 RU (Russia): 1
   🇮🇷 IR (Iran): 0
   🇰🇵 KP (North Korea): 0
   Other: 0
 ---------------------------------------
 Full Country Breakdown:
-  US: 50
-  DE: 31
-  NL: 15
-  JP: 14
-  GB: 13
-  SG: 10
-  FR: 3
-  CA: 3
-  LT: 2
-  PL: 2
-  BR: 1
-  IE: 1
-  CH: 1
-  KR: 1
+  US: 46
+  DE: 24
+  NL: 23
+  GB: 16
+  SG: 7
+  JP: 6
+  FR: 5
+  CA: 4
+  IE: 3
+  PL: 3
+  FI: 2
+  CZ: 2
+  ES: 2
   HK: 1
-  ES: 1
-  FI: 1
+  RU: 1
+  AL: 1
+  CH: 1
+  AR: 1
+  EE: 1
+  BR: 1
